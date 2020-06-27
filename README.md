@@ -9,4 +9,4 @@
 
 # US Map using d3.js                          
 
-![Screenshot](USState\Screenshot.png "Map output")
+![Screenshot](./USState/Screenshot.png "Map output")
