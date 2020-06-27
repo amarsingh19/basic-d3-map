@@ -1,51 +1,51 @@
-state,visited
-Alabama,5
-Alaska,1.2
-Arkansas,15
-Arizona,10
-California,20
-Colorado,5
-Connecticut,6
-Delaware,8
-Florida,9
-Georgia,5
-Hawaii,4
-Iowa,3
-Idaho,3
-Illinois,10
-Indiana,10
-Kansas,20
-Kentucky,5
-Louisiana,5
-Maine,3
-Maryland,8
-Massachusetts,7
-Michigan,9
-Minnesota,10
-Missouri,10
-Mississippi,20
-Montana,16
-North Carolina,10
-North Dakota,20
-Nebraska,20
-New Hampshire,15
-New Jersey,13
-New Mexico,12
-Nevada,1
-New York,2
-Ohio,1
-Oklahoma,0
-Oregon,1
-Pennsylvania,1
-Rhode Island,14
-South Carolina,13
-South Dakota,12
-Tennessee,11
-Texas,2
-Utah,1
-Virginia,0
-Vermont,0
-Washington,1
-Wisconsin,0
-West Virginia,0
-Wyoming,12
+code,state,value
+AL,Alabama,5
+AK,Alaska,1.2
+AZ,Arkansas,15
+AR,Arizona,10
+CA,California,20
+CO,Colorado,5
+CT,Connecticut,6
+DE,Delaware,8
+FL,Florida,9
+GA,Georgia,5
+HI,Hawaii,4
+IA,Iowa,3
+ID,Idaho,3
+IL,Illinois,10
+IN,Indiana,10
+KS,Kansas,20
+KY,Kentucky,5
+LA,Louisiana,5
+ME,Maine,3
+MD,Maryland,8
+MA,Massachusetts,7
+MI,Michigan,9
+MN,Minnesota,10
+MO,Missouri,10
+MS,Mississippi,20
+MT,Montana,16
+NC,North Carolina,10
+ND,North Dakota,20
+NE,Nebraska,20
+NH,New Hampshire,15
+NJ,New Jersey,13
+NM,New Mexico,12
+NV,Nevada,1
+NY,New York,2
+OH,Ohio,1
+OK,Oklahoma,0
+OR,Oregon,1
+PA,Pennsylvania,1
+RI,Rhode Island,14
+SC,South Carolina,13
+SD,South Dakota,12
+TN,Tennessee,11
+TX,Texas,2
+UT,Utah,1
+VA,Virginia,0
+VT,Vermont,0
+WA,Washington,1
+WI,Wisconsin,0
+WV,West Virginia,0
+WY,Wyoming,12
